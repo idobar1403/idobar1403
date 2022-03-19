@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=idobar1403&show_icons=true&layout=compact&line_height=20" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idobar1403&layout=compact&langs_count=6&hide=jupyter%20notebook,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idobar1403&layout=compact&langs_count=6&hide=jupyter%20notebook,html&show=hava" />
 </a>
 
 <!--
