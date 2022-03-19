@@ -1,7 +1,11 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=idobar1403&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<h2 align="center">Welcome</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idobar1403)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=idobar1403&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=idobar1403&style=flat-square&color=ff69b4" />
+</p>
 
 <!--
 **idobar1403/idobar1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
